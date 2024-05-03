@@ -1,7 +1,19 @@
 #titulo{
-    color: yellow;
+    color: orange;
 }
 
 .texto{
-    color: yellow;
+    color: orange;
+}
+
+.texto2{
+    color: orange;
+}
+
+body{
+    background-color: black;
+}
+
+a:link{
+    color: orange;
 }
